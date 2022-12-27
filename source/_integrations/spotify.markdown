@@ -28,6 +28,7 @@ library from Home Assistant.
 - Spotify compatible playback [source](#selecting-output-source) device
 - A Spotify Developer application. Instructions for that are in
   the next step.
+- Be sure you don't have a previous configuration here :  http://homeassistant.local:8123/config/application_credentials 
  
 ### Create a Spotify application
 
